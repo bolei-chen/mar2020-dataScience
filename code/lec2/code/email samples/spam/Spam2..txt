@@ -1,0 +1,10 @@
+Dear User,
+Courtesy Notice from the Admin Team, 
+You have reached the storage limit for your Mailbox on the database server.
+You will be blocked from sending or receiving new messages if your email is not verified within 48hours. 
+Please click BELOW to verify and access e-mail restore. 
+
+CLICK HERE
+
+Thanks 
+WINDOWS LIVE TEAM 
